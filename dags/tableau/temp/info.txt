@@ -1,0 +1,2 @@
+The temp folder will be cleaned after each run.
+This directory is where temporary .PNG and .PDF files will be stored.
